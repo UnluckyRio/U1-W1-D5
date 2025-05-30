@@ -189,13 +189,19 @@ footer {
   padding-top: 1em;
   margin-bottom: 1em;
 }
+.footer-content {
+  margin-left: 820px;
+
+  text-align: left;
+}
 .a-footer {
   text-align: center;
   font-size: 1.2em;
   color: white;
 }
 .p-footer {
-  text-align: center;
+  text-align: left;
+  margin-left: -5px;
   margin-top: 0%;
   margin-bottom: 1.2em;
   font-size: 1.2em;
@@ -203,7 +209,7 @@ footer {
 }
 .copyright {
   text-align: center;
-  width: 18%;
+  width: 300px;
   color: white;
 }
 .p-copyright {
