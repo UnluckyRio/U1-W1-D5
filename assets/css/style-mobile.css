@@ -84,9 +84,57 @@ p {
   padding-top: 2em;
   padding-left: 1em;
   padding-left: 1em;
-  padding-bottom: 1.5em;
+  padding-bottom: 1em;
   font-weight: bold;
   text-align: center;
 }
+.citazione {
+  font-size: 1.5em;
+  color: white;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  font-style: italic;
+  text-align: center;
+}
+.autore {
+  font-size: 1.5em;
+  color: white;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 0cm;
+}
+.ruolo {
+  font-size: 1em;
+  color: white;
+  margin-top: 0;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 2.5em;
+  text-align: center;
+}
 
+/* Section Cards */
+section {
+  background-color: white;
+  border: #dee1e3 solid 1px;
+  border-top: #e22d0e solid 1px;
+  border-bottom: #c8e7f0 1px;
+  padding-top: 3em;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+.card {
+  border: #dee1e3 solid 1px;
+  margin-top: 3em;
+}
+.img-card {
+  width: 100%;
+}
+h3 {
+  color: #25a2c3;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding-top: 1em;
+  text-align: center;
+}
 /* FOOTER */
