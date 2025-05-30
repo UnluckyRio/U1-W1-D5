@@ -118,14 +118,16 @@ section {
   background-color: white;
   border: #dee1e3 solid 1px;
   border-top: #e22d0e solid 1px;
-  border-bottom: #c8e7f0 1px;
+
   padding-top: 3em;
   padding-right: 1em;
   padding-left: 1em;
 }
 .card {
   border: #dee1e3 solid 1px;
+  border-radius: 5px;
   margin-top: 3em;
+  margin-bottom: 3em;
 }
 .img-card {
   width: 100%;
@@ -137,4 +139,25 @@ h3 {
   padding-top: 1em;
   text-align: center;
 }
+.p-card {
+  color: #393d41;
+  font-size: 1.5em;
+  margin-right: 1em;
+  margin-left: 1em;
+  margin-bottom: 1.5em;
+  text-align: center;
+}
 /* FOOTER */
+footer {
+  background-color: #25a2c3;
+  color: white;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  text-align: center;
+}
+.footer-title {
+  font-size: 3em;
+  font-weight: bold;
+  padding-top: 1em;
+  margin-bottom: 1em;
+}
