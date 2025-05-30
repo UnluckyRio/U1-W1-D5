@@ -1,0 +1,92 @@
+/* GENERALI */
+
+/* BODY */
+body {
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  width: 500px;
+}
+
+/* HEADER */
+header {
+  padding: 3em;
+  background-color: black;
+}
+
+/* MAIN */
+.background {
+  background-image: url(../img/banner.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p {
+  text-align: center;
+  font-size: 1.2em;
+  margin-top: 1em;
+  margin-right: 1em;
+  margin-left: 1em;
+  line-height: 1.5;
+  color: #393d41;
+}
+/* Section Web Developer */
+.web-dev {
+  color: #25a2c3;
+  font-size: 2em;
+  font-weight: bold;
+  padding-top: 2.5em;
+  text-align: center;
+}
+.red-button {
+  width: 100px;
+  padding: 1em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  background-color: #f04c2f;
+  color: white;
+  font-weight: bold;
+}
+.a-button {
+  text-decoration: none;
+  color: white;
+}
+
+/* Content Section */
+.content {
+  background-color: white;
+  border: #dee1e3 solid 1px;
+  border-bottom: #e22d0e solid 1px;
+  border-top: white solid 1px;
+}
+.content-title {
+  color: #25a2c3;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding-top: 2em;
+  text-align: center;
+}
+.circular-img {
+  border-radius: 50%;
+  margin-top: 1em;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
+}
+
+/* Section Red Banner */
+.red-banner {
+  background-color: #e22d0e;
+  color: white;
+}
+.promessa {
+  font-size: 2.5em;
+  padding-top: 2em;
+  padding-left: 1em;
+  padding-left: 1em;
+  padding-bottom: 1.5em;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* FOOTER */
