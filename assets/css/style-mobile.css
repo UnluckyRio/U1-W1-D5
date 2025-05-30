@@ -6,6 +6,7 @@ body {
   margin-left: auto;
   text-align: center;
   width: 500px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 /* HEADER */
@@ -160,4 +161,30 @@ footer {
   font-weight: bold;
   padding-top: 1em;
   margin-bottom: 1em;
+}
+.a-footer {
+  text-align: center;
+  font-size: 1.2em;
+  color: white;
+}
+.p-footer {
+  text-align: center;
+  margin-top: 0%;
+  margin-bottom: 1.2em;
+  font-size: 1.2em;
+  color: white;
+}
+.copyright {
+  text-align: center;
+  width: 50%;
+  color: white;
+}
+.p-copyright {
+  font-size: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  color: white;
+}
+.a-copyright {
+  color: white;
 }
